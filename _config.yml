@@ -1,11 +1,11 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: $whoami
+description: A web engineer working for agile products. Work powered by fullstack Javascript and always with love ! My will are to keep learning about new techno's, train myself to agile concepts, become a coach & driving teams to agility
 url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Baptiste Famchon
-user_description: A web engineer working for agile products. Work powered by fullstack Javascript and always with love ! My will are to keep learning about new techno's, train myself to agile concepts, become a coach & driving teams to agility
+user_description: A web engineer working for agile products. Work powered by fullstack Javascript and always with love ! My will are to keep learning about neè-²   w techno's, train myself to agile concepts, become a coach & driving teams to agility
 user_title: Software engineer &' agility lover
 email: bfamchon@gmail.com
 github_username: bfamchon
